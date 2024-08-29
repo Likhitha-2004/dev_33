@@ -5,5 +5,8 @@ public class Final_project {
 		System.out.println("LBRCE DEVOPS Lab");
 		System.out.println("Welcome");
 	}
-
+	
+	public void New_class() {
+		System.out.println("modified");
+	}
 }
